@@ -5,3 +5,8 @@ body{
 p{color: #ffffff;}
 
 h1{font-style: italic;}
+
+.sprite{
+    color: lightpink;
+    font-size: medium;
+}
